@@ -1,2 +1,9 @@
 encoding: "UTF-8"
-exclude: [".gitattributes", .gitignore", "_config.yml", "build", "CNAME", LICENSE.md", "README.md"]
+exclude:
+  - ".gitattributes"
+  - ".gitignore"
+  - "CNAME"
+  - "LICENSE.md"
+  - "README.md"
+  - "_config.yml"
+  - "build"
